@@ -1,0 +1,5 @@
+Done processing ./app/AnalogSensor.cpp
+Done processing ./app/main.cpp
+Done processing ./include/AnalogSensor.hpp
+Done processing ./test/main.cpp
+Done processing ./test/test.cpp
